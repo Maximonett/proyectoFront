@@ -539,7 +539,7 @@ body {
     margin-bottom: 60px;
     justify-content: flex-start;
     padding: auto;
-    border-radius: %;
+    border-radius: 10%;
     
     
 .link{
@@ -571,7 +571,7 @@ body {
             display: flex;
             flex-direction: column;
             justify-content: space-between;
-
+        }
             .imgAclamada {
                 border-radius: 5%;
                 width: 95%;
@@ -583,7 +583,7 @@ body {
 
 
     }
-}
+
 
 
 
