@@ -43,7 +43,7 @@
 }
 
 body {
-    background-color: #181419;
+    background-color: #181419!important;
     color: white;
     /* scrollbar-color: #9f3647  #181419; /*nuevo
     scrollbar-width: thin;*/
