@@ -215,6 +215,7 @@ body {
             font-size: 2.5rem;
             font-weight: 700;
             margin-bottom: 1rem;
+            color: whitesmoke !important;
         }
 
         .buscadorPeliculas {
@@ -270,6 +271,7 @@ body {
             font-size: 2.5rem;
             font-weight: 700;
             margin-bottom: 40px;
+            color: whitesmoke !important;
         }
 
         .peliculas {
@@ -379,12 +381,14 @@ body {
         margin-bottom: 60px;
 
         .tituloSection {
+            color: whitesmoke !important;
             font-size: 2.5rem;
             font-weight: 700;
             margin-bottom: 40px;
         }
 
         .aclamadas {
+
             overflow-x: scroll;
             overflow-y: hidden;
             width: 100%;
@@ -465,6 +469,7 @@ body {
 
             .tituloSection {
                 font-size: 2rem;
+                color: whitesmoke !important;
             }
 
             .peliculas {
@@ -482,6 +487,7 @@ body {
                         .tituloPelicula {
                             h4 {
                                 font-size: 1rem;
+                                color: whitesmoke !important;
                             }
                         }
 
@@ -533,7 +539,7 @@ body {
     margin-bottom: 60px;
     justify-content: flex-start;
     padding: auto;
-    border-radius: 15%;
+    border-radius: %;
     
     
 .link{
@@ -543,6 +549,7 @@ body {
         font-size: 2.5rem;
         font-weight: 700;
         margin-bottom: 40px;
+        color: whitesmoke!important;
     }
 
     .aclamadas {
