@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function() {
             return;
         }
 
-        alert("El formulario se envió con éxito");
+        alert("Has iniciado sesión con éxito");
     });
 
     // Desactivar la validación del navegador
